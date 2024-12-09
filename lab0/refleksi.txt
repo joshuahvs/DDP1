@@ -1,0 +1,9 @@
+Nama = Joshua Hans Vito Soehendra
+NPM = 2306165540
+Jurusan = Sistem Informasi 
+
+1. Nilai kemampuan programming kamu dari skala 1 (tidak bisa sama sekali) sampai 5 (sangat mahir) disertai dengan alasan.
+jawaban  = 2, Karena saya merasa sudah belajar banyak dari DDP 0, namun belum pro dan masih kesusahan jika terjadi error dalam code.
+
+2. Ekspektasi dan harapan untuk asisten dosen (asdos) DDP1.
+jawaban = Asisten dosen dapat membantu jika terjadi saya kurang memahami materi, dan juga dapat membantu jika terjadi error yang saya tidak bisa pecahkan sendiri. 
