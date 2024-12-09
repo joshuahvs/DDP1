@@ -1,0 +1,5 @@
+my_file = open("file.txt", "w")
+print("Permasalahan saya hari ini adalah", file = my_file)
+input_user = input("Tuliskan permasalah kamu hari ini: ")
+print(input_user, file = my_file)
+my_file.close()

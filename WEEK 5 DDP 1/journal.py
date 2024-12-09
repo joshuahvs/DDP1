@@ -1,0 +1,7 @@
+my_file = open("journal.txt","a")
+print("Tanggal: ", end='', file = my_file)
+tanggal = input("Tanggal: ")
+print(tanggal, file=my_file)
+isi_jurnal = input("Isi journal: ")
+print(isi_jurnal, "\n****", "\n", file=my_file)
+my_file.close()
